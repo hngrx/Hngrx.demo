@@ -1,2 +1,5 @@
 # Hngrx.demo
-Hngrx demo repository for learning GitHub, storing files, and practicing version control.
+
+This is my practice repository for learning GitHub.
+
+I'll use it to store notes, code, and ideas related to my small business (Hngrx) journey.
